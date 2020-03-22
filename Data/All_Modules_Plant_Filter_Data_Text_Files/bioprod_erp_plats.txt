@@ -1,0 +1,21 @@
+BRD - LS - Brazil Warehouse
+CDM - LS - Cardiff
+CNS - LS - China Warehouse
+DSM - LS - Dassel
+EYD - LS - Netherlands Warehouse
+EYM - LS - Eysins
+IQM - LS - Issaquah
+JPD - LS - Japan Warehouse
+LGM - LS - Logan
+MOM - LS - Queensland
+PAM - LS - Pasching
+PYD - LS - US Warehouse
+SGD - LS - Singapore Warehouse
+SGM - LS - Singapore
+TAM - LS - Tauranga
+TOM - LS - Tonglu
+UME - LS - Umea
+UPD - LS - Sweden Warehouse
+UPM - LS - Uppsala
+WBM - LS - Westboro
+XLM - LS - Westboro

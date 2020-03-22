@@ -1,0 +1,96 @@
+PO Number
+Purchasing Group Name Buyer Name
+Plant Code
+Line Number
+Shipment Line Number
+Release Number
+Creation Date
+Need By Date
+Orig. Need By Date
+Current Revision Number
+Material SKU
+Material Description
+Source/Vendor
+Actual LT
+PO LT
+Orig.PO LT
+ASL LT
+System LT
+Preprocessing LT
+Po Early/Late By days
+Early/Late Receipt
+Profit Center
+Buyer / Purchasing Group
+Planner / MRP Controller
+PO Line
+PO Amount
+Receipt Date
+Plant Code Plant Short Name
+Po Header Id
+Po Distribution Id
+Line Location Id
+Shipment Header Id
+Shipment Line Id
+Organization Code
+Vendor Id
+Vendor Site Id
+Vendor Site Code
+Poh Created By Name
+Receipt Number
+Authorization Status
+Po Item Id
+Org Name
+Item Identifier
+Postprocessing Lead Time
+Item Status
+Poh Creation Datetime
+Approved Date
+Promised Date
+Plant Region
+Shipment Type
+Po Document Type Code
+Shipment Line Status Code
+Receipt Source Code
+Source Document Code
+Unit Of Measure
+Net Price Lc
+Net Price Base Usd
+Unit Price Lc
+Exchange Rate To Usd
+Unit Price Usd
+Qty Received
+Receipt Amt Local
+Pol Closed Date
+Poh Closed Code
+Pol Closed Code
+Local Currency Code
+Qty Shipped
+Freight Terms Code
+Terms Name
+Bill To Location Id
+Ship To Location Id
+Po Release Id
+Line Creation Date
+Interface Source
+Line Type Id
+Receipt Required Flag
+Cancel Flag
+Erp Schema
+Actual LT Avg
+Actual LT Std Dev
+Actual LT +1 Std Dev
+Actual LT -1 Std Dev
+Actual LT +2 Std Dev
+Actual LT -2 Std Dev
+Outlier
+LT Difference
+Opportunity Or Risk
+System Logistics LT
+Actual Logistics LT
+Query Identifier
+ASL/System LT
+Rolling Week
+Need By Shipment Date
+Promise Shipment Date
+Plant Business
+Plant Sub Business

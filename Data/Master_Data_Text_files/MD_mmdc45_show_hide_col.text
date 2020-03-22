@@ -1,0 +1,79 @@
+Plant Code - Name
+Material Sku
+Material Type
+Profit Center
+Mrp Controller
+Mrp Type
+Plant Code
+Plant Short Name
+Plant Category
+Plant Region
+Plant Business
+Plant Sub Business
+Product Owner
+Material Group Commodity Group
+Product Hierarchy
+Purchasing Group Buyer Code
+Valuation Area
+Prodhier
+Language Key
+Material Description
+Valid From
+Deletion Indicator Task List
+X Plant Matl Status
+Ext Material Group
+X Distr Chain Status
+Base Unit Of Measure
+Plant Sp Matl Status
+Procurement Type
+Special Procurement
+Lot Size Key
+Minimum Lot Size
+Rounding Value
+Fixed Lot Size
+Individual Coll
+Planned Delivery Time Supplier Lead Time
+In House Production
+Gr Processing Time Transit Process Time
+Total Replenishment Lead Time
+Backflush
+Bulk Material
+Prod Stor Location
+Safety Stock
+Maintenance Status
+Storage Loc For Ep
+Availability Check
+Do Not Cost
+Schedmargin Key
+Mrp Group
+Abc Indicator
+Maximum Lot Size
+Planning Strategy Group
+Reorder Point
+Po Plant Material Automatic Po
+Sloc Mrp Indicator
+Slocep Mrp Indicator
+Bom Usage
+Valuation Class
+Price Unit
+Standard Price
+Total Stock
+Total Value
+Material Group Description
+Warehouse Number
+Task List Type
+Storage Location
+Erp Schema
+Processed Timestamp
+Missing Bom And Or Routing
+In House Prod Time Gt Total Lead Time
+In House Prod Time Zero
+Stor Loc For Ep Non Relevant For Mrp
+Missing Mrp Controller
+Missing Storage Location Extension
+Planned Delivery Time Zero
+Missing Work Scheduling Extension
+Conflicting Ind Col Ind And Safety Stock
+Missing Purchasing Group
+Missing Profit Center
+Phantoms With Safety Stock

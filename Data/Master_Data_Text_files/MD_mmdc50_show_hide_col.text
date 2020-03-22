@@ -1,0 +1,60 @@
+Plant Code - Name
+Material Sku
+Ph Vendor Number
+Vendor Name
+Minimum Lot Size
+Minimum Order Qty
+Purchasing Group Name Buyer Name
+Plant Code
+Plant Short Name
+Plant Region
+Plant Business
+Plant Sub Business
+Plant Category
+Pl Info Rec No
+Material Description
+Plant Desc
+Plant Sp Matl Status
+Mrp Controller
+Mrp Controller Name
+Procurement Type
+Ma Purch Gruop
+Special Procurement
+Ma Planned Del Time
+Pl Planned Del Time
+Gr Processing Time Transit Process Time
+Total Replenishment Lead Time
+Rounding Value
+Standard Po Quantity
+Reorder Point
+Safety Stock
+Pl Net Price Usd
+Pl Conf Control
+Pl Acknowledge Reqd
+Pl Created On
+Pl Valid To
+Pl Created By
+Ph Created On
+Ph Created By
+Ph Info Rec No
+Sl Created On
+Sl Created By
+Sl Valid From
+Sl Valid To
+Sl Fixed Vendor
+Sl Blocked
+Sl Mrp Relevant
+Standard Price
+Price Unit
+Number Of Pos
+Number Of Sl
+Standard Price Usd
+Erp Schema
+Processed Timestamp
+Missing Source List Flag Mm
+Differences between pir and mm
+Planned Delivery Time Zero
+Moq Differences Between Pir And Mm
+Pts Recommended Sl
+Recommended Sl Mrp Rel
+Sl Number

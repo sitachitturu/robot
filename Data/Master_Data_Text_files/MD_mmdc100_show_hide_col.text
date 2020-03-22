@@ -1,0 +1,62 @@
+Plant Code - Name
+Item
+Planner
+Buyer
+Plant Sp Matl Status
+Material Type
+Bom Bom Allowed
+Plant Code
+Plant Short Name
+Plant Region
+Plant Business
+Plant Sub Business
+Description
+Unit Of Measure
+Supply Subinventory Code
+Inv Inventory Item
+Inv Transactable
+Inv Stockable
+Inv Serial Control
+Po Purchasing Enabled
+Po Purchasing Item
+Om Customer Order Enabled
+Om Internal Order Enabled
+Cst Costing Enabled
+Lt Variable Leadtime
+Lt Fixed Leadtime
+Full leadtime
+Postprocessing leadtime
+Preprocessing leadtime
+Cumulative mfg leadtime
+Cumulative total leadtime
+Leadtime lot size
+Wip Build In Wip
+Wip Supply Type
+Plan Fixed Order Quantity
+Plan Fixed Days Supply
+Plan Fixed Lot Multiplier
+Plan Minimum Order Quantity
+Plan Maximum Order Quantity
+Plan Safety Stock Method
+Mrp Acceptable Early Days
+Mrp Planning Method
+Inc Invoiceable Item
+Inc Invoice Enabled
+Inspection Required
+Creation Date
+Created By
+Last Update Date
+Last Updated By
+Receipt Days Early
+Receipt Required
+Safety Stock Qty
+Bom Item Type
+Item Id
+Bom Count
+Routing Count
+Erp Schema
+Processed Timestamp
+Source Vendor
+Vendor Site
+Asl Processing Leadtime
+Asl Status

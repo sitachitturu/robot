@@ -1,0 +1,86 @@
+PO Action
+Exception
+PO Number
+Release Number
+PO Line
+Scheduling Line
+Material SKU
+PO Quantity
+Open Q.
+Source/Vendor
+Ideal Need / Req. Del. Date
+Creation Date
+Material Type
+Plant Code
+Plant Code Plant Short Name
+Plant Region
+Plant Sub Business
+Need / Req. Del. Date
+Vendor Promise Date
+PO Goods Receipt Quantity
+Order Number
+Cost Center
+Network Number For Account Assignment
+PO WBS Element
+GL Account Number
+Sales And Distribution Document Number
+Sales Document Item
+PO Created By Username
+Vendor Code
+Supplying Plant If Internal
+PO Info Record
+Storage Location
+Material Description
+Net Price (Local)
+Net Value (Local)
+Vendor Name
+Product Hierarchy
+Procurement Type
+PO Plant Material Minimum Order Quantity
+Rounding Value
+PO Plant Material Lot Size
+Planner/MRP Contr.
+Purchasing Group Buyer Code
+PO Plant Material ABC Indicator
+Planned Delivery Time Supplier Lead Time
+Special Procurement Key (SPK) SAP
+GR Processing Time Transit Process Time
+Standard Price (Local)
+Price Unit
+Buyer/Purch. Group
+MRP Controller Name
+Original Exception Message
+PO Exception Number
+MRP Date
+MRP Element
+Exchange Rate To USD
+Net Price (USD)
+Standard Price (USD)
+Net Open Value (Local)
+Standard Open Value (Local)
+Net Open Value (USD)
+Standard Open Value (USD)
+Vendor Type Internal External
+Vendor Site
+PO Days OVD
+OVD Days Range
+Short Cycle Indicator
+Short Cycle Days
+ER Name
+Net Value (USD)
+Plant Business
+Exception Requires Action
+Net Payment Days
+Profit Center
+MRP Type
+Overall PO Status
+Purchase Requisition
+Currency
+Purchase Org Code
+Purchase Org Name
+Project Name
+Account Assign. Category
+PO - PO Line
+Project Code
+Purchasing Document Type
+PO Type

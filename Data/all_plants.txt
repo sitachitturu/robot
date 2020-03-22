@@ -1,0 +1,618 @@
+0010 - Charlottesville
+0020 - After Sales and R&R
+02M - GE Erie Bldg 2 Manufacturing
+05M - GE Erie Bldg 5 Manufacturing
+07M - GE Erie Bldg 7 Manufacturing
+1003 - PORT NORTH WEST
+1004 - OKLAHOMA CITY
+1005 - SALINA
+1008 - PAMPA
+1010 - SAINT ROSE
+1011 - ODESSA
+1012 - FARMINGTON
+1020 - HUNTINGTON
+110D - Gas Power Systems
+110G - Operations CH
+110H - Power Services HGP
+110T - Birr Factory
+110W - PS X-Fleet
+111A - Hydro Large/New
+111S - Hydro Service
+18C - GE Building 18 Repair
+200B - Belfort Steam Turbines
+200C - Belfort Generators
+2102 - Hydro Belfort
+2103 - Hydro Grenoble
+2117 - ANACO
+2203 - Alstom Power Service
+2490 - GE Wind France SAS - St. Nazaire
+26M - GE Erie Bldg 26 Manufacturing
+3000 - GE IP India Factory
+3018 - PCO Leonding
+3071 - CSH Hong Kong
+3079 - ACS Bogota
+3135 - ERT Massy
+3145 - AHT Villeurbanne
+3148 - EME Massy
+3229 - GFSSC-TR ALSTOM Grid GmbH
+3234 - SWE Dresden
+3247 - AGM Mönchengladbach
+3264 - CSO-2 ALSTOM T&D India Ltd.* - CSO
+326A - PCP Chennai (Pallavaram)
+326B - PCP-SUBD01 ALSTOM T&D India Ltd.-PCP 2
+326C - PCP-SUBD02 ALSTOM T&D India Ltd.*
+326D - PCP-SUBD03 ALSTOM T&D India Ltd.*
+3271 - HVM Padappaï
+3273 - PTI Naini
+3333 - TDN Oslo
+3346 - ASG Singapor
+3371 - ASW Sweden
+3415 - AGS-SAS Stafford St Leonard
+3417 - TST Stafford Lichfield
+3481 - EMA Redmond
+3487 - PEP Philadelphia
+348C - USC Charleroi
+348D - USD Charleroi
+3500 - GE IP India Depot
+3501 - VEZ Caracas
+3644 - EMU Lafayette
+3798 - AST Shanghai
+3799 - RMK Hosur
+3802 - FST Ramonville
+4078 - TSCO Bogota
+4516 - DSD Kassel
+4814 - PEM Massy
+5001 - USHGP
+500D - Thermal Svcs SWSC
+500E - Thermal Svcs MWSC
+500N - TS Richmond
+500P - TS Recon Richmond
+5140 - Hydro Denver
+5149 - SHV Suzhou
+5164 - EAM ALSTOM Grid Mid. East FZE EAM
+5165 - MSM Toluca
+5185 - TPA-SAS
+5192 - AIB Itajuba
+5194 - ABS Agua Branca
+5198 - TCT Canoas
+519A - ABS-SUBD01 Agua Branca
+519B - ABS-SUBD02 ABS em Rezende
+519C - ABS-SUBD03 Itajuba
+519E - ABS-SUBD04 Agua Branca
+519F - ABS-SUBD05 Agua Branca
+5207 - GFSSC-MX Alstom Grid S.A. de C.V.
+5211 - SSO Oberentfelden
+5220 - CLS Santiago
+5250 - Greenville
+5251 - Greenville Services
+5263 - UTR Swadaya
+5265 - ITS TB Simatupang
+5279 - FDS Denmark
+5280 - KSA-SER Kazakhstan
+5282 - MSC Casablanca
+5337 - TSG Gebze
+5339 - SEESA Stokenchurch
+5343 - SSM Coslada
+5344 - UES Dubai
+5348 - LTI Vadodara
+5349 - GHD Guangzhou
+5350 - BHE ALSTOM Grid - BHD
+5352 - AWT Wuhan
+5360 - AVM AVM Caracas
+5366 - SCN Shanghai
+5367 - ARO Bucharest
+5378 - GFSSC-IN ALSTOM T&D India Ltd.* - GFSSC
+5382 - VNS Ha Noi
+5392 - WEA SMS SAS Manufacturing Stafford
+5393 - SMP Chennai (Pallavaram)
+539A - SMS Stafford St Leonard
+5413 - CTC-TC Shanghai
+5427 - SRI Noida
+5432 - SOR Moscow
+5444 - SAM Montpellier
+5501 - GE RE Brossard
+5600 - Plant Hydro Taubate
+5602 - Plant Wind Taubate
+560I - Plant Wind Camaçari
+560N - Plant Wind Canoas
+560Q - Brotas
+560R - Riachão
+560S - Amontada
+560T - Caldeirão Grande
+560V - Miassaba
+560W - Service
+560X - RDV
+560Z - Senandes
+5620 - Plant Wind BA
+56MM - MMF Plant Taubate
+6043 - ETS Cairo
+6048 - BHT Aix-les-Bains
+6119 - GAOMI
+6151 - SEH Oberentfelden
+6222 - SAB Lambermont
+6302 - NSO Oslo
+6303 - KWT Kuwait
+6304 - QAR Qatar
+6305 - UAE Dubai
+6306 - SAR Riyahd
+6307 - BHN Bahrain
+6326 - NES Iraq
+6332 - KHO Al Khobar
+6333 - RTB Florianopolis
+7000 - GE Intelligent Platforms GmbH
+7100 - Thermal Product WBC
+7101 - Wuhan
+7200 - Alstom Beizhong Power(Beijing)
+7600 - GE IP Automation Augsburg
+7910 - Alstom Hydro China
+8000 - GE IP Shanghai C
+8000 - Vadodara Hydro
+8001 - Durgapur
+8029 - NA-3135-8 Cogelex
+8031 - Sanand ABFPL - Bharat Forge
+8032 - ERT-1 ALSTOM GRID SAS IRAQI BRANCH ERT
+8200 - GE MIDDLE EAST
+874N - PC Parts UK
+874W - PC Parts UK
+9000 - GE IP Asia Pacif
+9130 - ASC Buenos Aires
+9S81 - GEESG - Services
+A01 - SHAWNEE
+A02 - SHREVEPORT
+A03 - TYLER
+A04 - FAIRFIELD
+A05 - LAFAYETTE
+A07 - LAUREL
+A08 - JOHNSTOWN
+A09 - OKLAHOMA CITY
+A10 - VAN BUREN
+A11 - FAIRMOUNT
+A12 - CANTON
+A13 - SUGARLAND
+A14 - CLEBURNE
+A15 - ODESSA
+A16 - CORPUS CHRISTI
+A17 - COTULLA
+A18 - GRAND JUNCTION
+A19 - WILLISTON
+A20 - VERNAL
+A21 - GILLETTE
+A22 - EVANSTON
+A23 - HARVEY
+A25 - SOLDOTNA
+A26 - MUNCY
+A27 - MATHIS
+A31 - SUZHOU
+A41 - PETERHEAD
+A42 - PETERHEAD
+A43 - MONTROSE CHARLETON RD
+A52 - ESBJERG
+A60 - MONTERREY
+A67 - MONTERREY
+A70 - DAMMAM
+A73 - ABU DHABI
+A75 - DOHA
+A81 - BRISBANE
+A82 - ADELAIDE
+A83 - CHINCHILLA
+A84 - MOOMBA
+A86 - ROMA
+A92 - EDMONTON
+A93 - BROOKS
+A94 - GRANDE PRAIRIE
+A95 - MOUNT PEARL
+AA01 - COMODORO
+AA02 - CERRO DRAGON
+AA03 - MENDOZA
+AA07 - NEUQUEN
+AABD - ABERDEEN
+AAD - Aurizon Australia Distribution
+ABG - Beech Grove CSC
+ACA1 - LEDUC
+AMB - Ultrasound Modality
+APD - GE Asia Pacific Distribution Shanghai
+AR01 - COMODORO RIVADAVIA
+AR04 - COMODORO RIVADAVIA
+AS01 - MISSOURI CITY
+AS03 - DICKINSON
+AU01 - OKC PLANT
+AU02 - MCR-PURCELL,OK
+AU04 - MCR-LAUREL,MS
+AU05 - SWR-MIDLAND,TX
+AU06 - SWR-ANDREWS,TX
+AU07 - SWR-SNYDER,TX
+AU08 - SWR-ARTESIA,NM
+AU09 - WR -CASPER,WY
+AU10 - WR-BAKERSFIELD,CA
+AU11 - WR-WILLISTON, ND
+B01 - JANDIRA
+B04 - MACAE
+B40 - NITEROI
+BAW - Imaging Modality
+BELF - PC Belfort
+BHL - Imaging Modality
+BHV - Imaging Modality
+BHW - Imaging Modality
+BOP - LCS - Boarder Operations
+BOU - US - Boarder Operations
+BTU - Imaging Modality
+BXD - Imaging Modality
+BXV - Imaging Modality
+C22 - MONTROSE CHARLETON RD
+C40 - NEWCASTLE
+C48 - CABINDA
+C49 - CABINDA
+C50 - LSB Lisburn
+C51 - MCS
+C52 - NAILSEA
+C53 - ABERDEEN BOD
+C54 - MONTROSE BRENT AVE
+C55 - MKM Markham
+C56 - ABERDEEN BOD
+C57 - ANA Anasco
+C58 - ADVANTEC, INVERURIE
+C71 - RCR Rochester
+C81 - ITI Instrument Transformers
+C83 - MTJ Clearwater Capacitors
+C86 - CWC Clearwater Capacitors
+CC01 - RMW Waynesboro
+CC02 - USC-SAS Phoenix
+CHAM - PC France Nancy
+CIL - Imaging Modality
+CLE - Cleveland Service Repair
+CS01 - NISKU
+CS03 - MEDICINE HAT
+CS04 - ESTEVAN
+CSC - LCS Modality
+CTC - Imaging Modality
+CTD - Imaging Modality
+CTJ - Imaging Modality
+CTM - Imaging - Waukesha
+DB01 - BSJ Jaguariúna
+DE1 - IO Manufacturing Germany
+DE2 - IO Field Services Germany
+DE3 - IO Repair Shop Germany
+DE4 - IO Central Warehouse Germany
+DE5 - IO Central Warehouse Germany (CM&U & Top Issues)
+DGS - Imaging Modality
+DTJ - Imaging Modality
+E00 - WIPRO GE Healthcare
+E01 - Ultrasound Modality
+E04 - WIPRO GE Healthcare Limited.TK (Kadugodi)
+E5WB - PC Betim Industrialisation
+E5WC - PC Betim Spares-National
+E5WD - PC Betim Spares-Nat.Distr.
+E5WE - PC Betim Spares-Imported
+E5WJ - PC Macae
+E5WK - PC Vila Velha
+E5WP - PC V.Nova Industrialisation
+E5WQ - PC V.Nova Spares-National
+E5WR - PC V.Nova Spares-Nat.Distr.
+E5WS - PC V.Nova Spares-Imported
+EGD - Grove City Wrhse
+ELG - Hanover Park Mfg/Re-Mfg (ELG)
+ELK - Hanover Park Distribution(ELK)
+ELP - LCS - Boarder Operations
+EMP - Emporium PA Repair
+ERI - Erie Parts Warehouse
+FD01 - LUFKIN FOUNDRY
+FU02 - CSZ Suzhou
+FU03 - SHT Suzhou
+GA1 - Araraquara CSC
+GA2 - Curitiba CSC
+GBB - ISS - GEBEL
+GBD - Betim Distribution
+GBG - ISS - GEBEL
+GBM - Betim Mfg On-site
+GBR - Betim Reman On-site
+GC01 - RED DEER
+GC06 - SWIFT CURRENT
+GC08 - PROVOST
+GCD - Contagem Distribution
+GCM - Contagem Mfg On-site
+GCR - Contagem Reman On-site
+GEI - GEII Projects
+GEW - ISS - GEBEL
+GHD - Grove City Mining
+GIM - Parts 1
+GMM - Monterrey Mexico Repair
+GNA - GERNA Project
+GR01 - LUFKIN
+GR02 - CULLMAN
+GR03 - PERU
+GR04 - LUFKIN
+GRR - Grove City UX
+GRV - Grove City Plant
+GS01 - SEI Noida
+GS02 - SCI Noida
+GS03 - ISN Noida
+GS04 - EMI Noida
+GS05 - MFG Noida
+GS06 - IBC Chennai (Pallavaram)
+GS07 - INIBC Chennai (Pallavaram)
+GV1 - Vale 1
+GV2 - Vale 2
+H02 - Parts Amsterdam
+H03 - Parts Atlanta Warehouse
+H06 - NHR - HOUSTON
+H11 - HTC - HOUSTON
+H12 - HHP - HOUSTON
+H13 - DDC - HOUSTON
+H15 - Haiphong H15
+H16 - Haiphong H16
+H21 - VERACRUZ
+H51 - DYCE - ABERDEEN
+H61 - SINGAPORE BENOI RD
+HB01 - ARC-TC Villeurbanne
+HB02 - FHV Villeurbanne
+HEL - LCS Modality
+HH01 - CME Noventa di Piave
+HH02 - CME-SAS Sesto San Giovanni
+HH03 - RPV Milano
+HL01 - AGK Kassel
+HLR - Surgery Modality
+HLT - Imaging Modality
+HR02 - CHT Padappaï
+HWD - Imaging Modality
+ICW - WIPRO GE Healthcare Pvt Ltd, (WGE Xray)
+IGV - ICS Grain Valley Manufacturing
+IN10 - PC India Chennai
+IN20 - PC Chennai
+IND1 - PC India Chennai
+IPA - Alstom Perth Australia
+IPV - India Purchasing Validation
+IS05 - KILGORE
+IS11 - VICTORIA
+IS13 - HOUSTON
+IWB - ICS Warrensburg Manufacturing
+IWM - Alstom Welwyn Garden City Manufacturing
+J03 - Shenyang
+J06 - Shenyang Wind
+JE01 - SOA Leonding
+JE02 - SOC Oberentfelden
+JF01 - CSM La Prairie
+JF02 - SBC La Prairie
+JF03 - TDC-SAS La Prairie
+JF04 - SMC Calgary
+JP01 - UTR-AIS Swadaya
+KAD - Aktobe WH
+KAK - Aktobe CSC
+KAY - Ayagoz CSC
+KCD - Kansas City MO DIST
+KCR - KCR-Kansas City MO Repair
+KKC - Kansas City SO CSC
+KOE - Ultrasound Modality
+KYR - Yrysty Repair
+LAU - LCS Modality
+LCA - CabE Perth Australia
+LE01 - CAIRO
+LED - Locomotive Erie Distribution(LED)
+LEI - Locomotive Erie Intransit
+LO01 - OMAN
+LPEC - LPEC Thermal Services TSCO Ecuador Branch
+LPPE - LPPE LAM ACS Peru Branch
+LR01 - ROMANIA
+LVR - Las Vegas NV Repair
+MAG - Imaging - Florence
+MASS - PC France SAS
+MCM - Magnetic Resonance Modality
+MCN - Imaging Modality
+MCT - Imaging Modality
+MCV - Imaging Modality
+MED - Mining Emerald Distribution
+MFM - Mining Fountaindale Mfg
+MGM - Mining Glen Lyn Manufacturing
+MHV - Mining Hunter Valley Fountaindale
+MIP - Mining Indiana Pennsylvania
+MLR - Imaging Modality
+MMD - Mining Services NSW
+MRB - Magnetic Resonance Modality
+MRC - Magnetic Resonance Modality
+MRJ - Magnetic Resonance Modality
+MRM - Imaging - Waukesha
+MRW - WIPRO GE Healthcare Pvt Ltd, (WGE Xray)
+MSM - Magnetic Resonance Modality
+MSN - LCS - Madison
+MSP - Imaging Modality
+MSX - Imaging Modality
+N01 - Parts 1 Warehouse
+N02 - Parts 2 Warehouse
+OEC - Surgery Modality
+OED - Erie OHV Distribution
+OEI - OHV Erie Intransit
+OF01 - BUCK CREEK
+OTD - Derivative Apparatus Business
+P01 - NHR - HOUSTON
+P04 - MMF Pune
+P06 - NHR - HOUSTON
+P07 - MMF Pune
+P08 - MMF Pune
+P10 - MMF Pune
+P12 - MMF Pune
+P14 - Hangzhou
+P15 - MMF Pune
+P84A - PC Berlin Manufacturing
+P84B - PC Berlin Services
+PA2 - GE Asia Pacific Repair Partner2
+PAE - Altonduys Engineering - MP
+PAI - ACME INDUSTRIES INC - MP
+PALA - PC France Villebon
+PBJ - Ultrasound Modality
+PCA2 - NEUQUEN
+PCA - CENTRO ALESATURA SRL A SOCIO UNICO - MP
+PDI - Ultrasound Modality
+PE01 - PENTAGON RED DEER
+PEL - E L STONE COMPANY INC - MP
+PET - Imaging - Waukesha
+PFF - Fairfield Mfg Company - MP
+PH01 - BROUSSARD
+PJH - JET HOT - MP
+PLE - LIBERTY ELECTRONICS - MP
+PMI - MODERN INDUSTRIES INC - MP
+PNS - IO Pensacola (Factory LLC)
+POI - Opiconsivia Investments - MP
+POK - OTTO KONIGSLOW MFG CO - MP
+PP10 - PES Stafford
+PP20 - SPL Stafford St Leonard
+PP30 - GSS Stafford Lichfield
+PP40 - HUK Stafford St Leonard
+PP50 - PSY Edinburgh
+PPP - Profibre Products - MP
+PRE - Transnet Rail Engineering - MP
+PS02 - LUFKIN
+PS03 - ANDREWS
+PS04 - SHAFTER
+PS05 - PLEASANTON
+PS07 - CASPER
+PS08 - KILGORE
+PS10 - GIDDINGS
+PS11 - LEVELLAND
+PS13 - ODESSA
+PS14 - OKLAHOMA CITY
+PS16 - GLENDIVE
+PS17 - DENVER CITY
+PS18 - FARMINGTON
+PS20 - MINOT
+PS21 - PLEASANTON
+PSD - STARLITE DIVERSIFIED INC - MP
+PST - SHERMAN TOOL & GAGE CO - MP
+PT01 - LUFKIN
+PTT - Techtronic Technlology Distribution - MP
+PTW - Imaging Modality
+PWI - WALBAR INCORPORATED - MP
+PZM - ZAKLAD-METALURGICZNY - MP
+QC01 - QUINN PUMPS CANADA LTD
+QC02 - QUINN PUMPS KINDERSLEY
+QC03 - QUINN PUMPS LLOYDMINSTER
+QC04 - QUINN PUMPS RED DEER
+QC05 - QUINN PUMPS COLD LAKE
+QC07 - QUINN PUMPS BROOKS
+QC10 - QUINN PUMPS PROVOST
+QC11 - QUINN PUMPS ESTEVAN
+QC12 - QUINN PUMPS RED EARTH CREEK
+QC14 - QUINN PUMPS DRUMHELLER
+QC15 - QUINN PUMPS RAINBOW LAKE
+QC16 - QUINN PUMPS SWIFT CURRENT
+QC17 - QUINN PUMPS DRAYTON VALLEY
+QC18 - QUINN PUMPS GRANDE PRAIRIE
+QC19 - QUINN PUMPS SWAN HILLS
+QCR - Changzhou Jiangsu Repair
+QGQ - Golmud CSC
+QU01 - QUINN PUMPS ENID
+QU02 - QUINN PUMPS ODESSA
+QU04 - QUINN PUMPS HOBBS
+QU05 - QUINN PUMPS ANDREWS
+QU06 - QUINN PUMPS LEVELLAND
+QU08 - QUINN PUMPS BIG SPRING
+QU10 - QUINN PUMPS ARTESIA
+QU11 - QUINN PUMPS CALDWELL
+QU13 - QUINN PUMPS PERRYTON
+QU16 - QUINN PUMPS REFUGIO
+QU19 - QUINN PUMPS RATLIFF
+QU20 - QUINN PUMPS PLEASANTON
+QU21 - QUINN PUMPS PECOS
+QU22 - QUINN PUMPS DICKINSON
+QU23 - QUINN PUMPS STANLEY
+QU25 - QUINN PUMPS WILLISTON
+QU26 - QUINN PUMPS VENTURA
+QU27 - QUINN PUMPS TAFT
+QU29 - QUINN PUMPS SHAFTER
+R7M - R7M-Rio 7 mile CSC
+RAW - Imaging Modality
+RF01 - ATT Gebze
+RF02 - TPP Ankara
+RF03 - ATT-SAS Gebze
+RFW - WIPRO GE Healthcare Pvt Ltd, (WGE Xray)
+RPR - Rio Perth Reman Shop
+S24 - Shenyang P1000
+SGC - Surgery Modality
+SI01 - CSS Santiago
+SKC - Kansas City CSC
+SWD - Seattle Distribution
+TA03 - TPA-SAS Rocklea
+TBD - Transnet Bay-37 Distribution-MRP
+TG01 - ASG-SAS Singapor
+TG02 - SSGA ALSTOM GRID Pte Ltd (SSGA)
+TJD - Transnet Johannesburg Distribution Center
+TJG - Magnetic Resonance Modality
+TJM - Magnetic Resonance Modality
+TJX - Imaging Modality
+TPD - Transnet GESAT Distribution-MRP
+TSP - San Luis Potosi CSC
+TT10 - PES 2 Stafford
+TU02 - USP Charleroi
+TUB - Imaging Modality
+TXD - Texas Locomotive Distribution
+TXL - Fort Worth Plant
+TXO - Fort Worth Mining
+UAP - Ultrasound Modality
+UAS - Ultrasound Modality
+UFW - Fort Worth Texas CSC
+UHL - Imaging Modality
+UIS - Ultrasound Modality
+UK10 - PC UK Systems
+UK11 - Marine Service
+UK22 - PC Parts UK
+UK31 - PC UK Rugby
+UK41 - PC UK Glasgow
+ULC - Ultrasound Modality
+UMM - Ultrasound Modality
+UNP - Ultrasound Modality
+UNS - Ultrasound Modality
+USA - Magnetic Resonance Modality
+UT01 - BUS Alstom High Voltage Equipment
+V01 - Veresegyhaz V01
+V02 - Veresegyhaz V02
+V03 - Veresegyhaz V03
+VAW - WIPRO GE Healthcare Pvt Ltd, (WGE Xray)
+VHL - Imaging Modality
+WC06 - ASU-SER Dubai
+WEN - Surgery Modality
+WH10 - SSJ Jeddah
+WQ01 - AMS Toluca
+WQ02 - AMS-SAS Toluca
+WQ04 - AIM-RPC Toluca
+WXA - Ultrasound Modality
+WXB - Ultrasound Modality
+WXC - LCS Modality
+WXT - LCS Modality
+WXU - LCS Modality
+XCP - San Luis Potosi Components
+XCS - GETSCS - Monterrey
+XLN - GLSN - San Luis Potosi
+XLP - San Luis Potosi CSC - GEMC
+XM1 - San Luis Potosi Shop 1 CSC
+XM2 - San Luis Potosi Shop 2 CSC
+XMM - Monterrey Mexico Repair - GEMC
+XMN - MdelN - Saltillo
+XMS - GEMSR - Monterrey
+XNY - Imaging Modality
+XRM - Imaging - Waukesha
+XRS - San Luis Potosi Repair Services
+XSC - San Luis Potosi Components (GEMC)
+XSL - San Luis Potosi GEMC Repair
+XSR - San Luis Potosi Repair Services GEMC
+XST - Saltillo Manufacturing
+XTT - Imaging Modality
+YDD - India Delhi Distribution
+YGD - India Gandhidham Distribution
+YGG - India Gandhidham Gujarat
+YHM - India Hyderabad Manufacturing
+YHQ - India Gurgaon Headquarter
+YMD - India Marhowra Distribution
+YMM - India Marhowra Manufacturing
+YRD - India Roza Distribution
+YRU - India Roza Uttarpradesh
+YX1 - India Loco 1
+YX2 - India Services 1
+YX3 - India Services 2
+YX4 - India Loco 2
+YX5 - India Services 3
+YX6 - India Mundra Manufacturing
+YX7 - India Services 5
+YX8 - India Services 6
+YX9 - India Services 7
+Z63 - Erie Distribution - Exp Comp
+ZAC - CHAT Distribution Global
+ZCH - CHAT of Pennsylvania
+ZUS - Kit Consolidation

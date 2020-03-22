@@ -1,0 +1,74 @@
+Comments
+PO Action
+PO Number
+Release Number
+PO Line
+Shipment Number
+Material / Item Number
+Material / Item Description
+Confirmation Number
+Exception Message
+Source / Vendor
+Net Open Value (USD)
+Need by Date
+Ideal Delivery Date
+Smart Action
+Profit Center
+Planner / MRP Controller
+Buyer / Purchasing Group
+Account Assign. Category
+Currency
+Days Early Short
+Net Payment Days
+Exception Requires Action
+Material Type
+Days Aged
+Aged Promise Days
+Days Early
+Net Price (Local)
+Net Price (USD)
+Network Number
+Original Need by Date
+OVD / Backlog days range
+PO Status
+PDT / Processing Lead Time
+Plant Business
+Plant
+Plant Code
+Plant Region
+Plant Sub Business
+PO Created By
+Creation Date
+Open Quantity
+PO Promise Exception
+PO Quantity
+GR / Post Processing Time
+Procurement Type
+Production / Work Order
+Project Definition
+Project Name
+Promise Category
+Promise Date
+PO Number
+Purchase Org Code
+PO Type
+Purchase Requisition
+Release Category
+Sales Order Item
+Sales Order
+SPK / Supply Type
+Tracking Number
+PO WBS Element
+OVD / Backlog days
+Days Aged
+Promise Reference
+Action Updated By
+Action Key
+Comments
+Comment Updated By
+Comment Updated By Email
+Comment Text
+Action
+PILT
+Need By Date @ Incoterm
+Promised Date @ Incoterm

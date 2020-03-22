@@ -1,0 +1,18 @@
+Material Sku
+Material Description
+Buyer Name
+Source/Vendor
+Settlement Method
+Planned Date Year
+Pay Days
+Push Days
+Critical Date Start
+Critical Date Bottom
+Q1 Recommended Date
+Q1 Opportunity
+Q2 Recommended Date
+Q2 Opportunity
+Q3 Recommended Date
+Q3 Opportunity
+Q4 Recommended Date
+Q4 Opportunity

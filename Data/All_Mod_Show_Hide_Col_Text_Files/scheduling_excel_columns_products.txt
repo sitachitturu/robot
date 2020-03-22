@@ -1,0 +1,13 @@
+Action
+Comments
+Exception
+Material SKU
+Material Description
+Standard Open Value (USD)
+Open Reservation Value
+Current Finish Date
+Ideal Finish Date
+Production / Work Order
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center

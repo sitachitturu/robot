@@ -1,0 +1,7 @@
+.idea
+log.html
+report.html
+output.xml
+*.log
+selenium*screenshot*
+.pyc

@@ -1,0 +1,25 @@
+Plant Code
+Plant Name
+Material SKU
+Count Date
+Total Value
+Quantity Difference
+Cost Difference
+Hit or Miss
+Profit Center
+Buyer / Purchasing Group
+Planner / MRP Controller
+Plant Code - Name
+Warehouse Number
+Inventory Record
+Plant Category
+Plant Region
+Storage Bin
+Total Quantity
+Counted Quantity
+Purchasing Group
+Base Unit
+Plant Description
+Planner / MRP Contr. Name
+Purchasing Group Name
+Storage Location

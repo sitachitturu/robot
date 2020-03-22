@@ -1,0 +1,25 @@
+Plant
+Safety Stock
+Suggested SS
+Difference SS
+Order Quantity
+Suggested OQ
+Difference OQ
+Reorder Point
+Suggested ROP
+Difference ROP
+Standard Inventory
+Difference Standard
+Suggested Standard
+Safety Stock Value
+Suggested SS (USD)
+Difference SS (USD)
+Order Quantity (USD)
+Suggested OQ (USD)
+Difference OQ (USD)
+Reorder Point Value
+Suggested ROP (USD)
+Difference ROP (USD)
+Standard Inventory Value
+Suggested Standard (USD)
+Difference Standard (USD)

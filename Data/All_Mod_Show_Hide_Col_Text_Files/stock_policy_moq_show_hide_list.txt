@@ -1,0 +1,62 @@
+Decision
+Plant
+Material SKU
+Material Desc
+Buyer / Purchasing Group
+Profit Center
+Planner / MRP Controller
+Current Qty
+Recommended Qty
+Opportunity $
+Opportunity 2 $
+Current Lot Days
+Suggested Lot Days
+Actions Definitions Mapping
+Plant Sub Business
+Source/Vendor
+Plant Sp Matl Status
+Procurement Type
+Mrp Type
+Planned Delivery Supplier Lead Time
+Product Hierarchy
+Material Type
+Ext Material Group
+Availability Check
+Special Procurement
+Backflush
+Bulk Material
+Individual Coll
+Current Classification
+Planning Strategy Group
+Prod Stor Location
+Categorization
+Model Assumption
+Consumption Model
+Post / GR Processing Time
+Purchasing Group Buyer Code
+Planner / MRP Contr. Name
+Final Pdt
+Potential Q Benefits
+Quadrant
+Obsolete Inventory
+Gross Onhand days of Consumption
+Covx Split
+Final Daily Usage
+Total Stock
+Total Stock Usd
+Standard Inventory
+Excess Inventory
+Slow Moving Inventory
+Active Inventory
+Suggested Standard
+Standard Unit Price (USD)
+Standard Inventory Value
+Suggested Standard (USD)
+Difference Standard
+Difference Standard (USD)
+Buyer / Purch. Group Name
+Qualifies as NPI
+Recommended Classification
+Last Cons
+Material Creation Date
+Final Eau

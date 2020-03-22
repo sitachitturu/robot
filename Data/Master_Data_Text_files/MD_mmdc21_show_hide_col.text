@@ -1,0 +1,27 @@
+Plant Code - Name
+Purchasing Group Name Buyer Name
+Po Purchase Order Number
+Po Buyer Id
+Item Buyer Id
+Material Sku
+Material Description
+Po Line
+Source Vendor
+Vendor Site
+Release Number
+Schedule Line
+Po Requested Delivery Date
+Po Confirmation Delivery Date
+Plant Code
+Plant Short Name
+Plant Category
+Plant Region
+Plant Business
+Plant Sub Business
+Material Type
+Plant Sp Matl Status
+Erp Schema
+Processed Timestamp
+Missing Promise Date
+Past Due Promise Date
+Buyer Name On Item Mismatch

@@ -1,0 +1,58 @@
+Plant Name
+Material SKU
+Material Description
+Procurement Type
+Quantity in Unit of Entry
+Extended Value USD
+Ovd Days Range
+Message Variable
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center
+Document Goods Mvt Error
+Counter
+Created On
+Created By
+Last Change
+Changed By
+Product Hierarchy
+Material Group
+Material Group Desc.
+Planner/ MRP Contr. Name
+Purchasing Group Buyer Code
+Purchasing Group Name Buyer Name
+ABC Indicator
+Material Type
+Storage Location
+Batch
+Movement Type
+Special Stock
+Consumption
+Sales Order
+Sales Order Item
+WBS Element
+Currency
+Unit of Entry
+Delivery Completed
+Order Number
+Order Status
+Reservation
+Reservation Item
+Final Issue
+Movement Indicator
+Confirmation
+Confirmation Counter
+Operation Task List Number
+Task List Counter
+Message Number
+Message Type
+Production Supervisor
+Error Date
+Posting Date
+Document Date
+Material Document
+Material Document Item
+Material Document Year
+Standard Price USD
+Ovd Days
+Plant Sp Matl Status

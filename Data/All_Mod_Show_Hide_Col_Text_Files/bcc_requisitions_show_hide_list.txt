@@ -1,0 +1,84 @@
+PR Number
+Purchase Requisition Item
+Material SKU
+Material Description
+Buyer / Purch. Group Name
+Exception Message
+Source/Vendor
+Value (USD)
+Release Date
+Need By Date
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center
+ABC Indicator (Key)
+Account Assignment Category
+Age (Bucket)
+Changed On
+Created By
+Creation Ind. / Data Source
+Currency
+Delivery Date
+Exchange Rate to USD
+Firm Purchase Requisition
+Fixed Lot Size
+Fixed Vendor
+Post / GR Processing Time
+Lot Size Key
+Planner / MRP Contr. Name
+MRP Type
+Material Group Commodity Group
+Material Group Description
+Minimum Order Quantity
+Net Days For Age Bucket
+Net Price (Local)
+Net Price (USD)
+Net Value (Local)
+Old Material Number
+Lead Time / Planned Del. Time
+Plant Business
+Plant Code - Name
+Plant Code
+ERP Plant Name
+Plant Region
+Plant Short Name
+Plant Sub Business
+Price Unit
+Processing Status
+Procurement Type
+Product Hierarchy
+Buyer / Purch. Group Code
+Open Quantity
+Requisition Date
+Rounding Value
+Safety Stock
+Short Cycle Days
+Short Cycle
+Special Procurement Key (SPK)
+Standard Price (Local)
+Standard Price (USD)
+Supplying Plant If Internal
+Valuation Price (Local)
+Vendor Code
+Vendor Name
+Vendor Type
+PO Exception Number
+Reschedule Date
+Exception Release Date
+Order Number
+Network Number for Account Assignment
+WBS Element
+Sales and Distribution Document Number
+Sales Document Item
+Project Name
+Order Type
+Purchase Org Code
+Purchase Org Name
+Authorization Status
+Material Type
+Project Code
+PR Type
+Material Category
+GE Material/Drawing Number
+Requirement Tracking Number
+Release Strategy

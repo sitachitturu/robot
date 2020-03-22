@@ -1,0 +1,45 @@
+Plant Name
+Order Number
+Prod/Work Order Status
+Actual Finish
+Material (Order Header)
+Material (Component)
+Open Quantity
+Open Value (USD)
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center
+Order Type
+Order Category
+Entered By
+Created On
+Total Order Quantity
+Quantity Of Goods Received
+Delivery Completed
+Price In Component Currency
+Price Unit
+Price Local Currency
+Exchange Rate To USD
+Price (USD)
+Item Is Deleted
+Goods Movement Allowed
+Final Issue Reservation
+Higher Level Assembly
+Material Type
+Storage Location
+Special Stock Indicator
+Bulk Material
+Backflush
+Phantom Item Indicator
+Serial No Profile
+Requirement Quantity
+Quantity Withdrawn
+Ovd Days Range
+Ovd Days
+Plant Category
+Plant Region
+Plant Business
+Sales Order
+Sales Order Item
+WBS Element
+Plant Sp Matl Status

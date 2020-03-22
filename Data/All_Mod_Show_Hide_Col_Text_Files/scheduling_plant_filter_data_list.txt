@@ -1,0 +1,11 @@
+0010 - Charlottesville
+7100 - Thermal Product WBC
+2490 - GE Wind France SAS - St. Nazaire
+5501 - GE RE Brossard
+5600 - Plant Hydro Taubate
+5602 - Plant Wind Taubate
+560I - Plant Wind Camaçari
+560Z - Senandes
+110H - Baden HGP
+110T - Birr Factory
+110W - PS X-Fleet

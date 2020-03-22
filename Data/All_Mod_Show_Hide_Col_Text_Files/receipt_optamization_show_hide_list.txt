@@ -1,0 +1,60 @@
+Buyer Name
+PO Number
+Open Qty
+Planned Date
+Recommended Date
+Push Days
+Total Opportunity
+Profit Center
+Buyer / Purchasing Group
+Planner / MRP Controller
+Action to Take
+Source/Vendor
+PO Header
+Action Updated By
+Action Key
+PO Line
+Line Location
+Material Description
+Material SKU
+Plant Code
+Plant Short Name
+Plant
+Plant Category
+Plant Region
+Plant Business
+Plant Sub Business
+Estimated Pay Qtr
+Settlement Method
+Cash Out Date
+Pay Date
+Currency Code
+Exchange Rate
+Term Name
+Term Type
+Vendor GSL #
+Critical Date Bottom
+Critical Date Start
+Discount %
+Due Days
+Line Creation Date
+Net Open Value Lc
+Net Price Lc
+Net Value Lc
+Net Value USD
+OU Name VTT
+OU Name
+Pay Day
+Pay Month
+Pay Days
+Pay Qtr
+PO Order Qty
+Discount Days
+Standard Open Value lc
+Standard Open Value USD
+Term Description
+Vendor ID
+Vendor Org
+Vendor Site ID
+ERP Schema
+Timestamp

@@ -1,0 +1,9 @@
+Age (Bucket)
+Delivery Date
+Material SKU
+Value (USD)
+PR Number
+Requisition Date
+Short Cycle
+Source/Vendor
+Order Type

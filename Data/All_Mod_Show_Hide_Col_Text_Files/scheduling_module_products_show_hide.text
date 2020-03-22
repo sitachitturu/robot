@@ -1,0 +1,82 @@
+Comments
+Action
+Exception
+Material SKU
+Material Description
+Standard Open Value (USD)
+Open Reservation Value
+Current Finish Date
+Ideal Finish Date
+Production / Work Order
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center
+Order Status
+Exception Requires Action
+Order Quantity
+Confirmed Quantity
+Delivered Quantity
+Open Quantity
+Planner / MRP Contr. Name
+Procurement Type
+Special Procurement
+MRP Type
+ABC Indicator (Keys)
+Storage Location
+Lot Size Key
+Post / GR Processing Time
+Total Replen. Lead Time
+Created By
+Current Start Date
+Current Schedule Start Date
+Current Schedule Finish Date
+Standard Price
+Price Unit
+Standard Unit Price (Local)
+Standard Open Value (Local)
+Exchange Rate to USD
+Standard Unit Price (USD)
+Compression Days
+Work Days VS Current Finish Date
+Product Hierarchy
+WBS Element
+Sales Order
+Sales Order Item
+Plant Code - Name
+Plant Code
+Plant Short Name
+Plant Description
+Plant Region
+Plant Business
+Plant Sub Business
+Manuf. Lead Time (IPT)
+Firm Indicator
+Created On
+WBS Element Status
+Project Code
+Project Name
+Network Number
+Network Status
+OP Activity Number
+Operation Description
+Actual Start Execution
+Actual Finish Execution
+Activity Components
+Fully Invoiced
+Order Type
+Scrapped Quantity
+Currency
+Account Assign. Category
+Buyer / Purch. Group Name
+Buyer / Purch. Group Code
+Production Supervisor
+Data Source
+Material Category
+Material Type / Item Type
+Action ID
+Action Updated By User
+Standard Time (Hrs)
+Sales Order Planned Delivery Date
+Planned Cost Local
+Planned Cost USD
+Production Order Type

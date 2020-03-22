@@ -1,0 +1,109 @@
+Comments
+PO Action
+Exception
+PO Number
+Release Number
+PO Line
+Scheduling Line
+Material SKU
+PO Quantity
+Open Q.
+Source/Vendor
+Ideal Delivery Date
+Creation Date
+Material Type
+Buyer / Purchasing Group
+Planner / MRP Controller
+Profit Center
+Comment Updated By
+Comment Updated By Email
+Comment Text
+Status
+Plant Code
+Plant Code Plant Short Name
+Plant Region
+Plant Sub Business
+Need / Req. Del. Date
+Vendor Promise Date
+PO Goods Receipt Quantity
+Cost Center
+Network Number For Account Assignment
+PO WBS Element
+GL Account Number
+Sales And Distribution Document Number
+Sales Document Item
+PO Created By Username
+Vendor Code
+Supplying Plant If Internal
+PO Info Record
+Storage Location
+Material Description
+Net Price (Local)
+Net Value (Local)
+Vendor Name
+Product Hierarchy
+Procurement Type
+PO Plant Material Minimum Order Quantity
+Rounding Value
+PO Plant Material Lot Size
+Purchasing Group Buyer Code
+PO Plant Material ABC Indicator
+Planned Delivery Time Supplier Lead Time
+Special Procurement Key (SPK) SAP
+GR Processing Time Transit Process Time
+Standard Price (Local)
+Price Unit
+MRP Controller Name
+Original Exception Message
+PO Exception Number
+MRP Date
+Stat Del. Date / Orig. Need by Date
+MRP Element
+Exchange Rate To USD
+Net Price (USD)
+Standard Price (USD)
+Net Open Value (Local)
+Standard Open Value (Local)
+Net Open Value (USD)
+Standard Open Value (USD)
+Vendor Type Internal External
+Vendor Site
+PO Days OVD
+OVD Days Range
+Short Cycle Indicator
+Short Cycle Days
+ER Name
+Net Value (USD)
+Plant Business
+Exception Requires Action
+RPA Code
+Net Payment Days
+MRP Type
+Overall PO Status
+Purchase Requisition
+Currency
+Purchase Org Code
+Purchase Org Name
+Project Name
+Account Assign. Category
+PO - PO Line
+Project Code
+Purchasing Document Type
+PO Type
+PO Line Status
+Material Category
+Action Updated By
+Action Key
+Action
+Incoterms – Header
+Incoterms – Line
+PILT
+Need By Date @ Incoterm
+Promised Date @ Incoterm
+Ideal Incoterm Delivery Date
+GE Material/Drawing Number
+Requirement Tracking Number
+Need By Shipment Date
+Promise Shipment Date
+Reference Number
+

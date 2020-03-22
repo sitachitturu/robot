@@ -1,0 +1,21 @@
+Plant Code
+Storage Bin
+Material SKU
+ABC Indicator
+Next Material Count Date
+Aging Days
+Aging Bucket
+Profit Center
+Buyer / Purchasing Group
+Planner / MRP Controller
+Plant Code - Name
+Warehouse Number
+Last Inventory Count Date
+Workdays Between Inventory Count
+Last Material Placement Date
+Last Material Movement Date
+Next Bin Count Date
+Planner / MRP Contr. Name
+Purchasing Group Name
+Float Time
+Storage Location

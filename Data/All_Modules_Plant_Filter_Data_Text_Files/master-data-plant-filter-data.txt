@@ -1,0 +1,17 @@
+110G - Birr Factory
+110H - Baden HGP
+110D - Birr
+110P - PAC Project Managment
+110T - Birr Factory
+110W - PS X-Fleet
+111A - Hydro Large/New
+111S - Hydro Service
+1573 - TS Germany
+1574 - TS Berlin Manufacturing
+1576 - Mannheim - Assembly
+1577 - Mannheim - HGP
+1579 - Mannheim - Blades
+3247 - AGM Mönchengladbach
+326B - PCP-SUBD01 ALSTOM T&D India Ltd.-PCP 2
+326C - PCP-SUBD02 ALSTOM T&D India Ltd.*
+326D - PCP-SUBD03 ALSTOM T&D India Ltd.*

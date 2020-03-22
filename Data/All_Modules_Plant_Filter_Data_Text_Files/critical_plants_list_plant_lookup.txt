@@ -1,0 +1,71 @@
+WQ02 - AMS-SAS Toluca
+5192 - AIB Itajuba
+5149 - SHV Suzhou
+HH01 - CME Noventa di Piave
+348D - USD Charleroi
+348C - USC Charleroi
+3145 - AHT Villeurbanne
+3799 - RMK Hosur
+CC01 - RMW Waynesboro
+3271 - HVM Padappaï
+HL01 - AGK Kassel
+539A - SMS Stafford St Leonard
+6333 - RTB Florianopolis
+CC02 - USC-SAS Phoenix
+6151 - SEH Oberentfelden
+HR02 - CHT Padappaï
+FU03 - SHT Suzhou
+6048 - BHT Aix-les-Bains
+5263 - UTR Swadaya
+3417 - TST Stafford Lichfield
+HH03 - RPV Milano
+5198 - TCT Canoas
+3247 - AGM Mönchengladbach
+3273 - PTI Naini
+5348 - LTI Vadodara
+5352 - AWT Wuhan
+RF01 - ATT Gebze
+TT10 - PES 2 Stafford
+PP10 - PES Stafford
+WQ01 - AMS Toluca
+C71 - RCR Rochester
+C81 - ITI Instrument Transformers
+C50 - LSB Lisburn
+C55 - MKM Markham
+C57 - ANA Anasco
+C86 - CWC Clearwater Capacitors
+7600 - GE IP Automation Augsburg
+8000 - GE IP Shanghai C
+7000 - GE Intelligent Platforms GmbH
+3000 - GE IP India Factory
+0010 - Charlottesville
+56MM - MMF Plant Taubate
+560N - Plant Wind Canoas
+5620 - Plant Wind BA
+2490 - GE Wind France SAS - St. Nazaire
+5600 - Plant Hydro Taubate
+5602 - Plant Wind Taubate
+560I - Plant Wind Camaçari
+DE2 - IO Field Services Germany
+DE1 - IO Manufacturing Germany
+DE3 - IO Repair Shop Germany
+DE4 - IO Central Warehouse Germany
+DE5 - IO Central Warehouse Germany
+UK11 - Marine Service
+UK22 - PC Parts UK
+BELF - PC Belfort
+MASS - PC France SAS
+UK10 - PC UK Systems
+IN20 - PC Chennai
+IND1 - PC India Chennai
+IN10 - PC India Chennai
+PALA - PC France Villebon
+UK41 - PC UK Glasgow
+UK31 - PC UK Rugby
+CHAM - PC France Nancy
+874N - PC Parts UK
+874W - PC Parts UK
+E5WB - PC Betim Industrialisation
+P84B - PC Berlin Services
+P84A - PC Berlin Manufacturing
+5393 - SMP Chennai

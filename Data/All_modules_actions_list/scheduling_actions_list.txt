@@ -1,0 +1,11 @@
+Select an option
+Accept - Add to Checklist
+Reject - After Sales Support
+Reject - BOM / Demand issue
+Reject - Customer Request
+Reject - Data Cleanliness
+Reject - Level Loading / Strategic Inventory
+Reject - Locked Waiting Change
+Reject - NCR / Rework
+Reject - Not MRP Planned
+Reject - Work in Process / Production Started
